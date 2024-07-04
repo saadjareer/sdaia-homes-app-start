@@ -5,11 +5,11 @@
 
 - Clone this branch to your local machine
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+  `git clone https://github.com/saadjareer/sdaia-homes-app-start.git`
 
 - Once the code has been downloaded
 
-  `cd homes-app`
+  `cd sdaia-homes-app-start`
 
 - Install the depencies
 
