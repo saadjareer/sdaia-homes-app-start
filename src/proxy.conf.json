@@ -1,0 +1,7 @@
+{
+  "/shms-ir-integration/*": {
+    "target": "http://stc-sjareer.mshome.net:9090",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
