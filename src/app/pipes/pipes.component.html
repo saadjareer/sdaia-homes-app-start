@@ -1,0 +1,16 @@
+<p>pipes works!</p>
+
+<h1>
+
+    Date: {{ dateToday  }} <br>
+    Name: {{ name }} <br>
+
+    Date Pipe: {{ dateToday | date | uppercase }}<br>
+
+    Date Pipe [Short Format]: {{ dateToday | date: 'short' | lowercase }} <br>
+
+    Name [UpperCase]: {{ name | uppercase }} <br>
+
+    Name [Slice]: {{ name | slice:6}}
+
+</h1>
